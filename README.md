@@ -10,7 +10,7 @@ Using this two important features, Model will predict those users who are going 
 
 * Purchased (Dependent Variable(Binary Outcome(1,0))
 
-# different classification models results
+# Different classification models results
   1) Logistic Regression accuracy = 89%
   2) k-Nearest Neighbors accuracy = 93%
   3) Decision Tree accuracy       = 91%
