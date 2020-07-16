@@ -1,6 +1,6 @@
 # Classification-Model
-Applied 7 different Classification Algorithm in same simple dataset to find out the best Classification Model for that particular dataset
-Features in the dataset -
+Applied 7 different Classification Algorithm in same simple dataset to find out the best Classification Model for that particular dataset,
+Features in the dataset:
 * User ID 
 * Gender 
 * Age (used this one as first key feature (Independent Varriable))
